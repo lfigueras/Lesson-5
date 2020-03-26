@@ -1,0 +1,22 @@
+<!--
+h1 {
+    color: green;
+       }
+   img {
+   width: 400px
+       }
+   #thirDiv {
+       height: 600px;
+       width: 500px;
+       background-color: lightyellow;
+       padding: 50px;
+       border-style:solid;
+       border-width: 10px;
+       border-color:darkred;
+   }
+   
+   #spanId{
+       margin: 50px;
+       font-size: 18px;
+   }
+   -->
